@@ -3,7 +3,10 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://mashaal2025.github.io/dorra-network-vision",
+  {
+  "homepage": "https://mashaal2025.github.io/dorra-network-vision"
+}
+
   "scripts": {
     "dev": "vite",
     "build": "vite build",

@@ -13,7 +13,7 @@ const DriveLink = () => {
         </p>
         <Button asChild>
           <a 
-            href="https://drive.google.com/drive/folders/1n8NKuKm_TbhzXwwexOJYylESUVFzpaAt?usp=sharing" 
+            href="https://drive.google.com/drive/folders/your-drive-link" 
             target="_blank" 
             rel="noopener noreferrer"
             className="flex items-center space-x-2"
